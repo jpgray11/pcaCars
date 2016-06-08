@@ -37,3 +37,4 @@ ggplot(carsDf,aes(x=Comp.1, y=Comp.2)) +
     ylab("PC2") + 
     xlim(-5, 6) + 
     ggtitle("PCA plot of Cars")
+
